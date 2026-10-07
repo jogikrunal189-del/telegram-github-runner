@@ -1,3 +1,11 @@
 flask
 requests
 gunicorn
+flask
+requests
+gunicorn
+beautifulsoup4
+lxml
+openpyxl
+pandas
+yfinance
